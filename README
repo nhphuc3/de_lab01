@@ -1,0 +1,10 @@
+1/ create ssh-key for github
+- Open Terminal:
+- Run command: ssh-keygen -t ed25519 -C "nhp3@github"
+- keep search "how to create ssh-key in git" in chatgpt
+
+2/ how to use git
+- step 1: git status -> check status of git
+- step 2: git add -A -> add git to prepare commit
+- step 3: git commit -m "comment"  -> input your comment
+- step 4: git push
